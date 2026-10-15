@@ -1,0 +1,28 @@
+README.md
+demos/simple_ai_demo.py
+demos/simple_ai_demo.py
+demos/text_generation_example.py
+snippets/practice-exercises.py
+snippets/logic-experiments.py
+roadmap/next-steps.md
+roadmap/project-ideas.md
+# AI Learning Journey – Micah
+
+This repository documents my ongoing journey learning software development and AI. 
+I studied through LaunchCode’s curriculum and spent about a year following MIT’s 
+Introduction to Computer Science lectures on YouTube, practicing along with the material 
+and building a foundation in programming logic and problem-solving.
+
+Even though I didn’t complete a full application, I focused on understanding how code 
+works, how AI models process information, and how to break problems down into smaller 
+steps. This repo represents the beginning of my hands-on learning.
+
+Included in this project:
+
+- Simple Python demo scripts
+- Practice exercises and logic experiments
+- A roadmap of future projects I plan to build
+- Ideas for expanding into AI, automation, and beginner software development
+
+This repository is a snapshot of my learning progress and a starting point for building 
+real projects as I continue exploring AI and software development.
